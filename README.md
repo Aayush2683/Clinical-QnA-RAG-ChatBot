@@ -99,6 +99,6 @@
 
 ---
 
-## 5. Disclaimer
+## 4. Disclaimer
 
 Prototype for educational / evaluation use only. **Not** a clinical decision support or diagnostic tool.
