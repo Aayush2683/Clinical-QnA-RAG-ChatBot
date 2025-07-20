@@ -99,12 +99,6 @@
 
 ---
 
-## 4. Interview / Oral Summary (One-Liner)
-
-> *“I built a lean local RAG: PDF upload → paragraph/sentence chunking with overlap → MiniLM embeddings + FAISS cosine → optional MMR rerank → small 1B LLaMA instruct model with a strict no-hallucination prompt and explicit fallback. Everything starts empty to guarantee data provenance.”*
-
----
-
 ## 5. Disclaimer
 
 Prototype for educational / evaluation use only. **Not** a clinical decision support or diagnostic tool.
